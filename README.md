@@ -1,7 +1,7 @@
 # WebGL Renderer Engine
 
 ## What is this?
-This is a high-performance engine designed to render your resume layouts instantly and with crystal-clear quality. Unlike older methods that take a "screenshot" of your page (which can be slow and blurry), this engine rebuilds your design from scratch using your computer's graphics card (GPU).
+This is a high-performance engine designed to render your resume layouts instantly and with crystal-clear quality. Unlike older methods that take a "screenshot" of your page (which can be slow and blurry html2canvas or html to image), this engine rebuilds your design from scratch using your computer's graphics card (GPU).
 
 ## Why is it better?
 - **It's Fast**: It renders complex designs in milliseconds.
